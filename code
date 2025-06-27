@@ -9,7 +9,7 @@ import re
  
 # === CONFIGURATION ===
 client = AsyncOpenAI(api_key = "YOUR_API_KEY")  # uses OPENAI_API_KEY from environment or you can pass api_key="..."
-MODEL = "4o"
+MODEL = "gpt-4o"
 NUM_RUNS = 10
 FILE_PATH = "ENTER_FILE_PATH"
 SLEEP_BETWEEN_BATCHES = 0.5  # seconds
