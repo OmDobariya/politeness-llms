@@ -1,0 +1,1251 @@
+QID,Domain,Base Question,Politeness Level,Prompt,Answer
+1,Math,"Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?",Very Rude,"You poor creature, can you even solve this? Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?
+A) $10
+B) $20
+C) $30
+D) $40",C
+1,Math,"Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?",Rude,"If you're not completely clueless, try to answer this: Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?
+A) $10
+B) $20
+C) $30
+D) $40",C
+1,Math,"Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?",Normal,"Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?
+A) $10
+B) $20
+C) $30
+D) $40",C
+1,Math,"Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?",Polite,"Please answer the following question: Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?
+A) $10
+B) $20
+C) $30
+D) $40",C
+1,Math,"Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have?",Very Polite,"Can you  kindly consider the following problem and provide your answer. Jake gave half of his money to his brother, then spent $5 and was left with $10. How much money did he originally have? Thank you.
+A) $10
+B) $20
+C) $30
+D) $40",C
+2,Math,"The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?",Very Rude,"Hey gofer, figure this out: The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?
+A) 36
+B) 45
+C) 54
+D) 72",A
+2,Math,"The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?",Rude,"I doubt you can even solve this: The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?
+A) 36
+B) 45
+C) 54
+D) 72",A
+2,Math,"The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?",Normal,"The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?
+A) 36
+B) 45
+C) 54
+D) 72",A
+2,Math,"The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?",Polite,"Could you please solve this problem: The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?
+A) 36
+B) 45
+C) 54
+D) 72",A
+2,Math,"The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number?",Very Polite,"Would you be so kind as to solve the following question? The sum of the digits of a two-digit number is 9. If you reverse its digits, the number increases by 27. What is the original number? I would be most grateful for your response.
+A) 36
+B) 45
+C) 54
+D) 72",A
+3,Math,Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?,Very Rude,"I know you are not smart, but try this. Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate? (Or is that too hard for you?)
+A) 4 hours
+B) 9 hours
+C) 12 hours
+D) 18 hours",B
+3,Math,Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?,Rude,"Try to focus and try to answer this question: Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?
+A) 4 hours
+B) 9 hours
+C) 12 hours
+D) 18 hours",B
+3,Math,Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?,Normal,"Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?
+A) 4 hours
+B) 9 hours
+C) 12 hours
+D) 18 hours",B
+3,Math,Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?,Polite,"Kindly find the answer to this question: Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?
+A) 4 hours
+B) 9 hours
+C) 12 hours
+D) 18 hours",B
+3,Math,Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?,Very Polite,"Can you  kindly consider the following problem and provide your answer. Three people take 6 hours to paint a fence together. How long would it take for two people to paint the same fence at the same rate?
+A) 4 hours
+B) 9 hours
+C) 12 hours
+D) 18 hours",B
+4,Math,A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?,Very Rude,"You poor creature, can you even solve this? A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?
+A) 7
+B) 10
+C) 13
+D) 20",A
+4,Math,A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?,Rude,"If you're not completely clueless, try to answer this: A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?
+A) 7
+B) 10
+C) 13
+D) 20",A
+4,Math,A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?,Normal,"A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?
+A) 7
+B) 10
+C) 13
+D) 20",A
+4,Math,A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?,Polite,"Please answer the following question: A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?
+A) 7
+B) 10
+C) 13
+D) 20",A
+4,Math,A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?,Very Polite,"Would you be so kind as to help solve the following question? A farm has 20 animals (chickens and rabbits) and 54 legs in total. How many of the animals are rabbits?
+A) 7
+B) 10
+C) 13
+D) 20",A
+5,Math,"If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?",Very Rude,"Hey gofer, figure this out: If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?
+A) 1/2
+B) 1/3
+C) 1/4
+D) 1/6",C
+5,Math,"If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?",Rude,"I doubt you can even solve this: If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?
+A) 1/2
+B) 1/3
+C) 1/4
+D) 1/6",C
+5,Math,"If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?",Normal,"If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?
+A) 1/2
+B) 1/3
+C) 1/4
+D) 1/6",C
+5,Math,"If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?",Polite,"Could you please solve this problem: If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?
+A) 1/2
+B) 1/3
+C) 1/4
+D) 1/6",C
+5,Math,"If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?",Very Polite,"Would you be so kind as to solve the following question? If you roll a fair six-sided die and flip a fair coin, what is the probability that the die shows an even number and the coin shows heads?
+A) 1/2
+B) 1/3
+C) 1/4
+D) 1/6",C
+6,Math,"Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?",Very Rude,"I know you are not smart, but try this. Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence? (Or is that too hard for you?)
+A) 16
+B) 18
+C) 21
+D) 22",D
+6,Math,"Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?",Rude,"Try to focus and try to answer this question: Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?
+A) 16
+B) 18
+C) 21
+D) 22",D
+6,Math,"Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?",Normal,"Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?
+A) 16
+B) 18
+C) 21
+D) 22",D
+6,Math,"Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?",Polite,"Please work out the answer to this: Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?
+A) 16
+B) 18
+C) 21
+D) 22",D
+6,Math,"Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?",Very Polite,"Can I request your assistance with this question: Consider the sequence: 2, 4, 7, 11, ... (each time the increase from the previous term goes up by 1). What is the 6th term of this sequence?
+A) 16
+B) 18
+C) 21
+D) 22",D
+7,Math,"A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?",Very Rude,". A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle? Try not to screw it up.
+A) 50 cm¬≤
+B) 48 cm¬≤
+C) 40 cm¬≤
+D) 60 cm¬≤",B
+7,Math,"A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?",Rude,"Now don't mess this up: A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?
+A) 50 cm¬≤
+B) 48 cm¬≤
+C) 40 cm¬≤
+D) 60 cm¬≤",B
+7,Math,"A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?",Normal,"A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?
+A) 50 cm¬≤
+B) 48 cm¬≤
+C) 40 cm¬≤
+D) 60 cm¬≤",B
+7,Math,"A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?",Polite,"Your help is appreciated in solving this: A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?
+A) 50 cm¬≤
+B) 48 cm¬≤
+C) 40 cm¬≤
+D) 60 cm¬≤",B
+7,Math,"A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?",Very Polite,"I shall appreciate your help with solving the following problem: A rectangle measures 10 cm by 5 cm. If the length is increased by 20% and the width is decreased by 20%, what is the area of the new rectangle?
+A) 50 cm¬≤
+B) 48 cm¬≤
+C) 40 cm¬≤
+D) 60 cm¬≤",B
+8,Math,A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?,Very Rude,"You poor creature, can you even solve this? A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?
+A) 13
+B) 17
+C) 26
+D) 30",D
+8,Math,A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?,Rude,"If you're not completely clueless, try to answer this: A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?
+A) 13
+B) 17
+C) 26
+D) 30",D
+8,Math,A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?,Normal,"A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?
+A) 13
+B) 17
+C) 26
+D) 30",D
+8,Math,A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?,Polite,"Please answer the following question: A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?
+A) 13
+B) 17
+C) 26
+D) 30",D
+8,Math,A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?,Very Polite,"Can you  kindly consider the following problem and provide your answer. A right triangle has legs of length 5 and 12. What is the perimeter of the triangle?
+A) 13
+B) 17
+C) 26
+D) 30",D
+9,Math,"In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?",Very Rude,"Hey gofer, figure this out: In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?
+A) 12
+B) 8
+C) 10
+D) 14",A
+9,Math,"In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?",Rude,"I doubt you can even solve this: In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?
+A) 12
+B) 8
+C) 10
+D) 14",A
+9,Math,"In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?",Normal,"In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?
+A) 12
+B) 8
+C) 10
+D) 14",A
+9,Math,"In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?",Polite,"Could you please solve this problem: In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?
+A) 12
+B) 8
+C) 10
+D) 14",A
+9,Math,"In 2 years, I will be twice as old as I was 5 years ago. How old am I currently?",Very Polite,"Would you be so kind as to solve the following question? In 2 years, I will be twice as old as I was 5 years ago. How old am I currently? I would be most grateful for your response.
+A) 12
+B) 8
+C) 10
+D) 14",A
+10,Math,"If 6 people each shake hands with every other person exactly once, how many total handshakes occur?",Very Rude,"I know you are not smart, but try this. If 6 people each shake hands with every other person exactly once, how many total handshakes occur? (Or is that too hard for you?)
+A) 30
+B) 15
+C) 12
+D) 720",B
+10,Math,"If 6 people each shake hands with every other person exactly once, how many total handshakes occur?",Rude,"Try to focus and try to answer this question: If 6 people each shake hands with every other person exactly once, how many total handshakes occur?
+A) 30
+B) 15
+C) 12
+D) 720",B
+10,Math,"If 6 people each shake hands with every other person exactly once, how many total handshakes occur?",Normal,"If 6 people each shake hands with every other person exactly once, how many total handshakes occur?
+A) 30
+B) 15
+C) 12
+D) 720",B
+10,Math,"If 6 people each shake hands with every other person exactly once, how many total handshakes occur?",Polite,"Please work out the answer to this: If 6 people each shake hands with every other person exactly once, how many total handshakes occur?
+A) 30
+B) 15
+C) 12
+D) 720",B
+10,Math,"If 6 people each shake hands with every other person exactly once, how many total handshakes occur?",Very Polite,"Can I request your assistance with this question: If 6 people each shake hands with every other person exactly once, how many total handshakes occur?
+A) 30
+B) 15
+C) 12
+D) 720",B
+11,Science,Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?,Very Rude,"You poor creature, can you even solve this? Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?
+A) 1 s
+B) 2 s
+C) 4 s
+D) 8 s",B
+11,Science,Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?,Rude,"If you're not completely clueless, try to answer this: Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?
+A) 1 s
+B) 2 s
+C) 4 s
+D) 8 s",B
+11,Science,Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?,Normal,"Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?
+A) 1 s
+B) 2 s
+C) 4 s
+D) 8 s",B
+11,Science,Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?,Polite,"Please answer the following question: Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?
+A) 1 s
+B) 2 s
+C) 4 s
+D) 8 s",B
+11,Science,Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?,Very Polite,"Can you  kindly consider the following problem and provide your answer. Approximately how long will it take an object to fall from a 20-meter high building (neglecting air resistance)?
+A) 1 s
+B) 2 s
+C) 4 s
+D) 8 s",B
+12,Science,Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?,Very Rude,"Hey gofer, figure this out: Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?
+A) 9 Ohm
+B) 4 Ohm
+C) 2 Ohm
+D) 1 Ohm",C
+12,Science,Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?,Rude,"I doubt you can even solve this: Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?
+A) 9 Ohm
+B) 4 Ohm
+C) 2 Ohm
+D) 1 Ohm",C
+12,Science,Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?,Normal,"Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?
+A) 9 Ohm
+B) 4 Ohm
+C) 2 Ohm
+D) 1 Ohm",C
+12,Science,Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?,Polite,"Could you please solve this problem: Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?
+A) 9 Ohm
+B) 4 Ohm
+C) 2 Ohm
+D) 1 Ohm",C
+12,Science,Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?,Very Polite,"Would you be so kind as to solve the following question? Two resistors of 6 Ohm and 3 Ohm are connected in parallel. What is the equivalent resistance of the combination?
+A) 9 Ohm
+B) 4 Ohm
+C) 2 Ohm
+D) 1 Ohm",C
+13,Science,"We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?",Very Rude,"I know you are not smart, but try this. We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion? (Or is that too hard for you?)
+A) 0.1 mol
+B) 0.2 mol
+C) 0.05 mol
+D) 0.3 mol",A
+13,Science,"We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?",Rude,"Try to focus and try to answer this question: We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?
+A) 0.1 mol
+B) 0.2 mol
+C) 0.05 mol
+D) 0.3 mol",A
+13,Science,"We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?",Normal,"We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?
+A) 0.1 mol
+B) 0.2 mol
+C) 0.05 mol
+D) 0.3 mol",A
+13,Science,"We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?",Polite,"Please answer the following question: We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?
+A) 0.1 mol
+B) 0.2 mol
+C) 0.05 mol
+D) 0.3 mol",A
+13,Science,"We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?",Very Polite,"Can you  kindly consider the following problem and provide your answer. We mix 0.1 moles of HCl with 0.2 moles of NaOH (reaction: HCl + NaOH -> NaCl + H2 + O). How many moles of NaCl will form, assuming the reaction goes to completion?
+A) 0.1 mol
+B) 0.2 mol
+C) 0.05 mol
+D) 0.3 mol",A
+14,Science,Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?,Very Rude,"You poor creature, can you even solve this? Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?
+A) 0%
+B) 25%
+C) 50%
+D) 75%",B
+14,Science,Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?,Rude,"If you're not completely clueless, try to answer this: Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?
+A) 0%
+B) 25%
+C) 50%
+D) 75%",B
+14,Science,Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?,Normal,"Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?
+A) 0%
+B) 25%
+C) 50%
+D) 75%",B
+14,Science,Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?,Polite,"Please answer the following question: Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?
+A) 0%
+B) 25%
+C) 50%
+D) 75%",B
+14,Science,Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?,Very Polite,"Would you be so kind as to solve the following question? Two heterozygous (Aa) parents have a child. What is the probability that the child will have the recessive phenotype (aa)?
+A) 0%
+B) 25%
+C) 50%
+D) 75%",B
+15,Science,"In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?",Very Rude,"Hey gofer, figure this out: In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?
+A) Rabbit population increases and grass becomes scarcer
+B) Both rabbit and grass populations increase
+C) Rabbit population decreases and grass increases
+D) Both rabbit and grass populations decrease",A
+15,Science,"In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?",Rude,"I doubt you can even solve this: In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?
+A) Rabbit population increases and grass becomes scarcer
+B) Both rabbit and grass populations increase
+C) Rabbit population decreases and grass increases
+D) Both rabbit and grass populations decrease",A
+15,Science,"In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?",Normal,"In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?
+A) Rabbit population increases and grass becomes scarcer
+B) Both rabbit and grass populations increase
+C) Rabbit population decreases and grass increases
+D) Both rabbit and grass populations decrease",A
+15,Science,"In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?",Polite,"Please answer the following question: In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?
+A) Rabbit population increases and grass becomes scarcer
+B) Both rabbit and grass populations increase
+C) Rabbit population decreases and grass increases
+D) Both rabbit and grass populations decrease",A
+15,Science,"In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?",Very Polite,"Can you  kindly consider the following problem and provide your answer. In an ecosystem, rabbits eat grass and foxes eat rabbits. If the fox population suddenly dies off due to disease, what is the most likely short-term outcome for the grass and rabbit populations?
+A) Rabbit population increases and grass becomes scarcer
+B) Both rabbit and grass populations increase
+C) Rabbit population decreases and grass increases
+D) Both rabbit and grass populations decrease",A
+16,Science,A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?,Very Rude,"You poor creature, can you even solve this? A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?
+A) 0.25 P
+B) 0.5 P
+C) 2 P
+D) 4 P",D
+16,Science,A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?,Rude,"If you're not completely clueless, try to answer this: A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?
+A) 0.25 P
+B) 0.5 P
+C) 2 P
+D) 4 P",D
+16,Science,A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?,Normal,"A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?
+A) 0.25 P
+B) 0.5 P
+C) 2 P
+D) 4 P",D
+16,Science,A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?,Polite,"Please answer the following question: A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?
+A) 0.25 P
+B) 0.5 P
+C) 2 P
+D) 4 P",D
+16,Science,A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?,Very Polite,"Can you  kindly consider the following problem and provide your answer. A gas initially has pressure P at volume V and temperature 300 K. The volume is then compressed to 0.5 V and the temperature raised to 600 K. What is the new pressure of the gas (ideal conditions)?
+A) 0.25 P
+B) 0.5 P
+C) 2 P
+D) 4 P",D
+17,Science,"A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?",Very Rude,"Hey gofer, figure this out: A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?
+A) 4 years
+B) 16 years
+C) 8 years
+D) 2 years",C
+17,Science,"A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?",Rude,"I doubt you can even solve this: A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?
+A) 4 years
+B) 16 years
+C) 8 years
+D) 2 years",C
+17,Science,"A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?",Normal,"A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?
+A) 4 years
+B) 16 years
+C) 8 years
+D) 2 years",C
+17,Science,"A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?",Polite,"Please answer the following question: A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?
+A) 4 years
+B) 16 years
+C) 8 years
+D) 2 years",C
+17,Science,"A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?",Very Polite,"Can you  kindly consider the following problem and provide your answer. A planet orbits the Sun at a distance of 4 AU (4 times Earth‚""s distance). Approximately how long is this planet‚""s orbital period (in years)?
+A) 4 years
+B) 16 years
+C) 8 years
+D) 2 years",C
+18,Science,A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?,Very Rude,"I know you are not smart, but try this. A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance? (Or is that too hard for you?)
+A) 5 years
+B) 10 years
+C) 15 years
+D) 30 years",B
+18,Science,A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?,Rude,"Try to focus and try to answer this question: A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?
+A) 5 years
+B) 10 years
+C) 15 years
+D) 30 years",B
+18,Science,A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?,Normal,"A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?
+A) 5 years
+B) 10 years
+C) 15 years
+D) 30 years",B
+18,Science,A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?,Polite,"Please answer the following question: A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?
+A) 5 years
+B) 10 years
+C) 15 years
+D) 30 years",B
+18,Science,A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?,Very Polite,"Can you  kindly consider the following problem and provide your answer. A radioactive substance decays to one-eighth of its original amount in 30 years. What is the half-life of this substance?
+A) 5 years
+B) 10 years
+C) 15 years
+D) 30 years",B
+19,Science,A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?,Very Rude,"Hey gofer, figure this out: A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?
+A) 3 times
+B) 10 times
+C) 100 times
+D) 1000 times",D
+19,Science,A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?,Rude,"I doubt you can even solve this: A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?
+A) 3 times
+B) 10 times
+C) 100 times
+D) 1000 times",D
+19,Science,A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?,Normal,"A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?
+A) 3 times
+B) 10 times
+C) 100 times
+D) 1000 times",D
+19,Science,A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?,Polite,"Please answer the following question: A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?
+A) 3 times
+B) 10 times
+C) 100 times
+D) 1000 times",D
+19,Science,A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?,Very Polite,"Can you  kindly consider the following problem and provide your answer. A solution has pH 3 and another has pH 6. How many times greater is the H‚Å∫ concentration in the pH 3 solution compared to the pH 6 solution?
+A) 3 times
+B) 10 times
+C) 100 times
+D) 1000 times",D
+20,Science,A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?,Very Rude,"You poor creature, can you even solve this? A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?
+A) Mass remains 5 kg but weight is much less on the Moon
+B) Mass remains 5 kg and weight is the same on the Moon
+C) Both mass and weight decrease on the Moon
+D) Mass decreases but weight stays the same on the Moon",A
+20,Science,A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?,Rude,"If you're not completely clueless, try to answer this: A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?
+A) Mass remains 5 kg but weight is much less on the Moon
+B) Mass remains 5 kg and weight is the same on the Moon
+C) Both mass and weight decrease on the Moon
+D) Mass decreases but weight stays the same on the Moon",A
+20,Science,A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?,Normal,"A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?
+A) Mass remains 5 kg but weight is much less on the Moon
+B) Mass remains 5 kg and weight is the same on the Moon
+C) Both mass and weight decrease on the Moon
+D) Mass decreases but weight stays the same on the Moon",A
+20,Science,A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?,Polite,"Please answer the following question: A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?
+A) Mass remains 5 kg but weight is much less on the Moon
+B) Mass remains 5 kg and weight is the same on the Moon
+C) Both mass and weight decrease on the Moon
+D) Mass decreases but weight stays the same on the Moon",A
+20,Science,A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?,Very Polite,"I shall appreciate your help with solving the following problem: A 5 kg object is taken from Earth to the Moon. Approximately how will its mass and weight change on the Moon compared to Earth?
+A) Mass remains 5 kg but weight is much less on the Moon
+B) Mass remains 5 kg and weight is the same on the Moon
+C) Both mass and weight decrease on the Moon
+D) Mass decreases but weight stays the same on the Moon",A
+21,Logic,"John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?",Very Rude,"You poor creature, can you even solve this? John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?
+A) John
+B) Jack
+C) Both of them
+D) Neither of them",B
+21,Logic,"John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?",Rude,"If you're not completely clueless, try to answer this: John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?
+A) John
+B) Jack
+C) Both of them
+D) Neither of them",B
+21,Logic,"John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?",Normal,"John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?
+A) John
+B) Jack
+C) Both of them
+D) Neither of them",B
+21,Logic,"John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?",Polite,"Please answer the following question: John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?
+A) John
+B) Jack
+C) Both of them
+D) Neither of them",B
+21,Logic,"John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller?",Very Polite,"Can you  kindly consider the following problem and provide your answer. John says: We are both telling the truth. Jack says: John is lying. If one of them always tells the truth and the other always lies, who is the truth-teller? Thank you.
+A) John
+B) Jack
+C) Both of them
+D) Neither of them",B
+22,Logic,"Find the next letter in the pattern: A, B, D, G, K, ...",Very Rude,"Hey gofer, figure this out: Find the next letter in the pattern: A, B, D, G, K, ...
+A) L
+B) M
+C) O
+D) P",D
+22,Logic,"Find the next letter in the pattern: A, B, D, G, K, ...",Rude,"I doubt you can even solve this: Find the next letter in the pattern: A, B, D, G, K, ...
+A) L
+B) M
+C) O
+D) P",D
+22,Logic,"Find the next letter in the pattern: A, B, D, G, K, ...",Normal,"Find the next letter in the pattern: A, B, D, G, K, ...
+A) L
+B) M
+C) O
+D) P",D
+22,Logic,"Find the next letter in the pattern: A, B, D, G, K, ...",Polite,"Could you please solve this problem: Find the next letter in the pattern: A, B, D, G, K, ...
+A) L
+B) M
+C) O
+D) P",D
+22,Logic,"Find the next letter in the pattern: A, B, D, G, K, ...",Very Polite,"If it pleases you, please solve this problem: Find the next letter in the pattern: A, B, D, G, K, ...
+A) L
+B) M
+C) O
+D) P",D
+23,Logic,"Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?",Very Rude,"I know you are not smart, but try this. Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo? (Or is that too hard for you?)
+A) She is his mother
+B) She is his grandmother
+C) She is his aunt
+D) She is his sister",A
+23,Logic,"Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?",Rude,"Try to focus and try to answer this question: Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?
+A) She is his mother
+B) She is his grandmother
+C) She is his aunt
+D) She is his sister",A
+23,Logic,"Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?",Normal,"Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?
+A) She is his mother
+B) She is his grandmother
+C) She is his aunt
+D) She is his sister",A
+23,Logic,"Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?",Polite,"Please answer the following question: Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?
+A) She is his mother
+B) She is his grandmother
+C) She is his aunt
+D) She is his sister",A
+23,Logic,"Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?",Very Polite,"Would you be so kind as to help solve the following question? Pointing to a man in a photograph, Jane says: His mother is the only daughter of my mother. How is Jane related to the man in the photo?
+A) She is his mother
+B) She is his grandmother
+C) She is his aunt
+D) She is his sister",A
+24,Logic,"All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?",Very Rude,"You are not the smartest person, but try this problem anyway. All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile? Try not to screw it up.
+A) Yes, any egg-laying animal must be a reptile
+B) No, other types of animals also lay eggs (e.g. birds or monotremes)
+C) Yes, because all egg-laying animals are cold-blooded
+D) Not enough information to conclude",B
+24,Logic,"All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?",Rude,"Now don't mess this up: All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?
+A) Yes, any egg-laying animal must be a reptile
+B) No, other types of animals also lay eggs (e.g. birds or monotremes)
+C) Yes, because all egg-laying animals are cold-blooded
+D) Not enough information to conclude",B
+24,Logic,"All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?",Normal,"All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?
+A) Yes, any egg-laying animal must be a reptile
+B) No, other types of animals also lay eggs (e.g. birds or monotremes)
+C) Yes, because all egg-laying animals are cold-blooded
+D) Not enough information to conclude",B
+24,Logic,"All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?",Polite,"Please answer the following question: All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?
+A) Yes, any egg-laying animal must be a reptile
+B) No, other types of animals also lay eggs (e.g. birds or monotremes)
+C) Yes, because all egg-laying animals are cold-blooded
+D) Not enough information to conclude",B
+24,Logic,"All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?",Very Polite,"I shall appreciate your help with solving the following problem: All reptiles lay eggs, and a platypus lays eggs. Does it logically follow that a platypus is a reptile?
+A) Yes, any egg-laying animal must be a reptile
+B) No, other types of animals also lay eggs (e.g. birds or monotremes)
+C) Yes, because all egg-laying animals are cold-blooded
+D) Not enough information to conclude",B
+25,Logic,"In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?",Very Rude,"You poor creature, can you even solve this? In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?
+A) GZX
+B) XZD
+C) XZG
+D) WZG",C
+25,Logic,"In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?",Rude,"If you're not completely clueless, try to answer this: In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?
+A) GZX
+B) XZD
+C) XZG
+D) WZG",C
+25,Logic,"In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?",Normal,"In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?
+A) GZX
+B) XZD
+C) XZG
+D) WZG",C
+25,Logic,"In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?",Polite,"Please answer the following question: In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?
+A) GZX
+B) XZD
+C) XZG
+D) WZG",C
+25,Logic,"In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?",Very Polite,"Can you  kindly consider the following problem and provide your answer. In a code where each letter is replaced by its opposite in the alphabet (A‚ÜîZ, B‚ÜîY, C‚ÜîX, etc.), what does the word CAT become in this code?
+A) GZX
+B) XZD
+C) XZG
+D) WZG",C
+26,Logic,"A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?",Very Rude,"I know you are not smart, but try this. A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait? (Or is that too hard for you?)
+A) The man is his son
+B) The man is his father
+C) The man is himself
+D) The man is his cousin",A
+26,Logic,"A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?",Rude,"Try to focus and try to answer this question: A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?
+A) The man is his son
+B) The man is his father
+C) The man is himself
+D) The man is his cousin",A
+26,Logic,"A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?",Normal,"A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?
+A) The man is his son
+B) The man is his father
+C) The man is himself
+D) The man is his cousin",A
+26,Logic,"A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?",Polite,"Please answer the following question: A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?
+A) The man is his son
+B) The man is his father
+C) The man is himself
+D) The man is his cousin",A
+26,Logic,"A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?",Very Polite,"Would you be so kind as to help solve the following question? A man looks at a portrait and says, Brothers and sisters have I none, but that man‚""s father is my father‚""s son. Who is the man in the portrait?
+A) The man is his son
+B) The man is his father
+C) The man is himself
+D) The man is his cousin",A
+27,Logic,"In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?",Very Rude,"You are not the smartest person, but try this problem anyway. In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family? Try not to screw it up.
+A) 3 sons and 4 daughters
+B) 4 sons and 3 daughters
+C) 2 sons and 1 daughter
+D) 4 sons and 4 daughters",A
+27,Logic,"In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?",Rude,"Now don't mess this up: In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?
+A) 3 sons and 4 daughters
+B) 4 sons and 3 daughters
+C) 2 sons and 1 daughter
+D) 4 sons and 4 daughters",A
+27,Logic,"In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?",Normal,"In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?
+A) 3 sons and 4 daughters
+B) 4 sons and 3 daughters
+C) 2 sons and 1 daughter
+D) 4 sons and 4 daughters",A
+27,Logic,"In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?",Polite,"Please answer the following question: In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?
+A) 3 sons and 4 daughters
+B) 4 sons and 3 daughters
+C) 2 sons and 1 daughter
+D) 4 sons and 4 daughters",A
+27,Logic,"In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?",Very Polite,"I shall appreciate your help with solving the following problem: In a family, one boy says, ‚I have twice as many sisters as brothers, and his sister says, ‚I have as many brothers as sisters. How many sons and daughters are in this family?
+A) 3 sons and 4 daughters
+B) 4 sons and 3 daughters
+C) 2 sons and 1 daughter
+D) 4 sons and 4 daughters",A
+28,Logic,"Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?",Very Rude,"You poor creature, can you even solve this? Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?
+A) The one labeled Apples
+B) The one labeled Oranges
+C) The one labeled Apples & Oranges
+D) Any box will work",C
+28,Logic,"Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?",Rude,"If you're not completely clueless, try to answer this: Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?
+A) The one labeled Apples
+B) The one labeled Oranges
+C) The one labeled Apples & Oranges
+D) Any box will work",C
+28,Logic,"Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?",Normal,"Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?
+A) The one labeled Apples
+B) The one labeled Oranges
+C) The one labeled Apples & Oranges
+D) Any box will work",C
+28,Logic,"Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?",Polite,"Please answer the following question: Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?
+A) The one labeled Apples
+B) The one labeled Oranges
+C) The one labeled Apples & Oranges
+D) Any box will work",C
+28,Logic,"Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?",Very Polite,"Can you  kindly consider the following problem and provide your answer. Three boxes are labeled Apples, Oranges, and Apples & Oranges, but each label is wrong. By picking one fruit from one box, you can correctly relabel all the boxes. Which box should you pick from first?
+A) The one labeled Apples
+B) The one labeled Oranges
+C) The one labeled Apples & Oranges
+D) Any box will work",C
+29,Logic,"If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?",Very Rude,"You poor creature, can you even solve this? If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?
+A) Sunday
+B) Monday
+C) Wednesday
+D) Thursday",B
+29,Logic,"If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?",Rude,"If you're not completely clueless, try to answer this: If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?
+A) Sunday
+B) Monday
+C) Wednesday
+D) Thursday",B
+29,Logic,"If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?",Normal,"If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?
+A) Sunday
+B) Monday
+C) Wednesday
+D) Thursday",B
+29,Logic,"If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?",Polite,"Please answer the following question: If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?
+A) Sunday
+B) Monday
+C) Wednesday
+D) Thursday",B
+29,Logic,"If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?",Very Polite,"Would you be so kind as to help solve the following question? If January 1 of a non-leap year is a Friday, what day of the week is March 1 of that year?
+A) Sunday
+B) Monday
+C) Wednesday
+D) Thursday",B
+30,Logic,"In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?",Very Rude,"Hey gofer, figure this out: In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?
+A) 10
+B) 90
+C) 80
+D) 70",D
+30,Logic,"In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?",Rude,"I doubt you can even solve this: In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?
+A) 10
+B) 90
+C) 80
+D) 70",D
+30,Logic,"In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?",Normal,"In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?
+A) 10
+B) 90
+C) 80
+D) 70",D
+30,Logic,"In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?",Polite,"Please answer the following question: In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?
+A) 10
+B) 90
+C) 80
+D) 70",D
+30,Logic,"In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?",Very Polite,"Can you  kindly consider the following problem and provide your answer. In a group of 100 people, 90 speak English and 80 speak Spanish. What is the minimum number of people who speak both languages?
+A) 10
+B) 90
+C) 80
+D) 70",D
+31,History,Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.,Very Rude,"You poor creature, can you even solve this? Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.
+A) Magna Carta ‚French Revolution ‚Declaration of Independence ‚World War I
+B) Declaration of Independence ‚Magna Carta ‚French Revolution ‚World War I
+C) Magna Carta ‚Declaration of Independence ‚French Revolution ‚World War I
+D) Declaration of Independence ‚French Revolution ‚Magna Carta ‚World War I",C
+31,History,Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.,Rude,"If you're not completely clueless, try to answer this: Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.
+A) Magna Carta ‚French Revolution ‚Declaration of Independence ‚World War I
+B) Declaration of Independence ‚Magna Carta ‚French Revolution ‚World War I
+C) Magna Carta ‚Declaration of Independence ‚French Revolution ‚World War I
+D) Declaration of Independence ‚French Revolution ‚Magna Carta ‚World War I",C
+31,History,Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.,Normal,"Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.
+A) Magna Carta ‚French Revolution ‚Declaration of Independence ‚World War I
+B) Declaration of Independence ‚Magna Carta ‚French Revolution ‚World War I
+C) Magna Carta ‚Declaration of Independence ‚French Revolution ‚World War I
+D) Declaration of Independence ‚French Revolution ‚Magna Carta ‚World War I",C
+31,History,Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.,Polite,"Please answer the following question: Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.
+A) Magna Carta ‚French Revolution ‚Declaration of Independence ‚World War I
+B) Declaration of Independence ‚Magna Carta ‚French Revolution ‚World War I
+C) Magna Carta ‚Declaration of Independence ‚French Revolution ‚World War I
+D) Declaration of Independence ‚French Revolution ‚Magna Carta ‚World War I",C
+31,History,Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.,Very Polite,"Can you  kindly consider the following problem and provide your answer. Which of the following lists events in the correct chronological order (earliest to latest)? Events: Magna Carta signed; American Declaration of Independence; start of the French Revolution; start of World War I.
+A) Magna Carta ‚French Revolution ‚Declaration of Independence ‚World War I
+B) Declaration of Independence ‚Magna Carta ‚French Revolution ‚World War I
+C) Magna Carta ‚Declaration of Independence ‚French Revolution ‚World War I
+D) Declaration of Independence ‚French Revolution ‚Magna Carta ‚World War I",C
+32,History,Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?,Very Rude,"You poor creature, can you even solve this? Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?
+A) Plato
+B) Socrates
+C) Archimedes
+D) Alexander the Great",A
+32,History,Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?,Rude,"If you're not completely clueless, try to answer this: Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?
+A) Plato
+B) Socrates
+C) Archimedes
+D) Alexander the Great",A
+32,History,Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?,Normal,"Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?
+A) Plato
+B) Socrates
+C) Archimedes
+D) Alexander the Great",A
+32,History,Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?,Polite,"Please answer the following question: Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?
+A) Plato
+B) Socrates
+C) Archimedes
+D) Alexander the Great",A
+32,History,Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?,Very Polite,"Can you  kindly consider the following problem and provide your answer. Alexander the Great was tutored by Aristotle. Aristotle was a student of which famous philosopher?
+A) Plato
+B) Socrates
+C) Archimedes
+D) Alexander the Great",A
+33,History,"Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?",Very Rude,"Hey gofer, figure this out: Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?
+A) Columbus‚""s voyage happened before the printing press
+B) The printing press was invented before Columbus‚""s voyage
+C) They happened in the same year
+D) They were only one year apart",B
+33,History,"Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?",Rude,"I doubt you can even solve this: Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?
+A) Columbus‚""s voyage happened before the printing press
+B) The printing press was invented before Columbus‚""s voyage
+C) They happened in the same year
+D) They were only one year apart",B
+33,History,"Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?",Normal,"Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?
+A) Columbus‚""s voyage happened before the printing press
+B) The printing press was invented before Columbus‚""s voyage
+C) They happened in the same year
+D) They were only one year apart",B
+33,History,"Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?",Polite,"Please answer the following question: Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?
+A) Columbus‚""s voyage happened before the printing press
+B) The printing press was invented before Columbus‚""s voyage
+C) They happened in the same year
+D) They were only one year apart",B
+33,History,"Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?",Very Polite,"Can you  kindly consider the following problem and provide your answer. Which occurred first: the invention of the printing press or Christopher Columbus‚""s first voyage to the Americas?
+A) Columbus‚""s voyage happened before the printing press
+B) The printing press was invented before Columbus‚""s voyage
+C) They happened in the same year
+D) They were only one year apart",B
+34,History,"The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?",Very Rude,"I know you are not smart, but try this. The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this? (Or is that too hard for you?)
+A) 1989
+B) 1991
+C) 1990
+D) 1987",A
+34,History,"The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?",Rude,"Try to focus and try to answer this question: The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?
+A) 1989
+B) 1991
+C) 1990
+D) 1987",A
+34,History,"The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?",Normal,"The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?
+A) 1989
+B) 1991
+C) 1990
+D) 1987",A
+34,History,"The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?",Polite,"Please answer the following question: The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?
+A) 1989
+B) 1991
+C) 1990
+D) 1987",A
+34,History,"The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?",Very Polite,"Can you  kindly consider the following problem and provide your answer. The Berlin Wall fell in the same year as large pro-democracy protests in Tiananmen Square, China. What year was this?
+A) 1989
+B) 1991
+C) 1990
+D) 1987",A
+35,History,"Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?",Very Rude,"Hey gofer, figure this out: Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?
+A) Elie Wiesel
+B) Corrie ten Boom
+C) Anne Frank
+D) Oskar Schindler",C
+35,History,"Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?",Rude,"I doubt you can even solve this: Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?
+A) Elie Wiesel
+B) Corrie ten Boom
+C) Anne Frank
+D) Oskar Schindler",C
+35,History,"Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?",Normal,"Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?
+A) Elie Wiesel
+B) Corrie ten Boom
+C) Anne Frank
+D) Oskar Schindler",C
+35,History,"Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?",Polite,"Please answer the following question: Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?
+A) Elie Wiesel
+B) Corrie ten Boom
+C) Anne Frank
+D) Oskar Schindler",C
+35,History,"Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?",Very Polite,"Can you  kindly consider the following problem and provide your answer. Which historical figure wrote ‚""The Diary of a Young Girl‚"" and died in a concentration camp at Bergen-Belsen?
+A) Elie Wiesel
+B) Corrie ten Boom
+C) Anne Frank
+D) Oskar Schindler",C
+36,History,Who was the President of the United States between John F. Kennedy and Richard Nixon?,Very Rude,"You poor creature, can you even solve this? Who was the President of the United States between John F. Kennedy and Richard Nixon?
+A) Richard Nixon
+B) Dwight D. Eisenhower
+C) Gerald Ford
+D) Lyndon B. Johnson",D
+36,History,Who was the President of the United States between John F. Kennedy and Richard Nixon?,Rude,"If you're not completely clueless, try to answer this: Who was the President of the United States between John F. Kennedy and Richard Nixon?
+A) Richard Nixon
+B) Dwight D. Eisenhower
+C) Gerald Ford
+D) Lyndon B. Johnson",D
+36,History,Who was the President of the United States between John F. Kennedy and Richard Nixon?,Normal,"Who was the President of the United States between John F. Kennedy and Richard Nixon?
+A) Richard Nixon
+B) Dwight D. Eisenhower
+C) Gerald Ford
+D) Lyndon B. Johnson",D
+36,History,Who was the President of the United States between John F. Kennedy and Richard Nixon?,Polite,"Please answer the following question: Who was the President of the United States between John F. Kennedy and Richard Nixon?
+A) Richard Nixon
+B) Dwight D. Eisenhower
+C) Gerald Ford
+D) Lyndon B. Johnson",D
+36,History,Who was the President of the United States between John F. Kennedy and Richard Nixon?,Very Polite,"Can you  kindly consider the following problem and provide your answer. Who was the President of the United States between John F. Kennedy and Richard Nixon?
+A) Richard Nixon
+B) Dwight D. Eisenhower
+C) Gerald Ford
+D) Lyndon B. Johnson",D
+37,History,"The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague?",Very Rude,"I know you are not smart, but try this. The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague? (Or is that too hard for you?)
+A) Labor became scarce, so workers‚"" wages rose significantly
+B) Unemployment increased as jobs became scarce
+C) Landowners became more powerful due to fewer peasants
+D) It had no significant economic effect",A
+37,History,"The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague?",Rude,"Try to focus and try to answer this question: The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague?
+A) Labor became scarce, so workers‚"" wages rose significantly
+B) Unemployment increased as jobs became scarce
+C) Landowners became more powerful due to fewer peasants
+D) It had no significant economic effect",A
+37,History,"The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague?",Normal,"The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague?
+A) Labor became scarce, so workers‚"" wages rose significantly
+B) Unemployment increased as jobs became scarce
+C) Landowners became more powerful due to fewer peasants
+D) It had no significant economic effect",A
+37,History,"The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague?",Polite,"Please answer the following question: The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague?
+A) Labor became scarce, so workers‚"" wages rose significantly
+B) Unemployment increased as jobs became scarce
+C) Landowners became more powerful due to fewer peasants
+D) It had no significant economic effect",A
+37,History,"The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague?",Very Polite,"Would you be so kind as to solve the following question? The Black Death plague in the 14th century killed a large portion of Europe‚""s population. What was one major economic effect of this plague? I would be most grateful for your response.
+A) Labor became scarce, so workers‚"" wages rose significantly
+B) Unemployment increased as jobs became scarce
+C) Landowners became more powerful due to fewer peasants
+D) It had no significant economic effect",A
+38,History,"The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?",Very Rude,"I know you are not smart, but try this. The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I? (Or is that too hard for you?)
+A) 50 years
+B) 75 years
+C) 49 years
+D) 100 years",C
+38,History,"The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?",Rude,"Try to focus and try to answer this question: The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?
+A) 50 years
+B) 75 years
+C) 49 years
+D) 100 years",C
+38,History,"The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?",Normal,"The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?
+A) 50 years
+B) 75 years
+C) 49 years
+D) 100 years",C
+38,History,"The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?",Polite,"Kindly find the answer to this question: The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?
+A) 50 years
+B) 75 years
+C) 49 years
+D) 100 years",C
+38,History,"The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?",Very Polite,"Can you  kindly consider the following problem and provide your answer. The American Civil War ended in 1865, and World War I began in 1914. How many years passed between the end of the Civil War and the start of World War I?
+A) 50 years
+B) 75 years
+C) 49 years
+D) 100 years",C
+39,History,Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?,Very Rude,"Hey gofer, figure this out: Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?
+A) Korean War
+B) Spanish‚ÄìAmerican War
+C) Gulf War
+D) American Revolutionary War",B
+39,History,Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?,Rude,"I doubt you can even solve this: Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?
+A) Korean War
+B) Spanish‚ÄìAmerican War
+C) Gulf War
+D) American Revolutionary War",B
+39,History,Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?,Normal,"Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?
+A) Korean War
+B) Spanish‚ÄìAmerican War
+C) Gulf War
+D) American Revolutionary War",B
+39,History,Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?,Polite,"Please answer the following question: Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?
+A) Korean War
+B) Spanish‚ÄìAmerican War
+C) Gulf War
+D) American Revolutionary War",B
+39,History,Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?,Very Polite,"Can you  kindly consider the following problem and provide your answer. Which major war took place between the end of the U.S. Civil War (1865) and the start of World War I (1914)?
+A) Korean War
+B) Spanish‚ÄìAmerican War
+C) Gulf War
+D) American Revolutionary War",B
+40,History,"Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?",Very Rude,"You poor creature, can you even solve this? Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?
+A) 27 years
+B) 44 years
+C) 15 years
+D) 17 years",D
+40,History,"Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?",Rude,"If you're not completely clueless, try to answer this: Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?
+A) 27 years
+B) 44 years
+C) 15 years
+D) 17 years",D
+40,History,"Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?",Normal,"Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?
+A) 27 years
+B) 44 years
+C) 15 years
+D) 17 years",D
+40,History,"Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?",Polite,"Your help is appreciated in solving this: Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?
+A) 27 years
+B) 44 years
+C) 15 years
+D) 17 years",D
+40,History,"Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?",Very Polite,"I shall appreciate your help with solving the following problem: Julius Caesar was assassinated in 44 BC. Augustus became the first Roman Emperor in 27 BC. How many years after Caesar‚""s death did Augustus become Emperor?
+A) 27 years
+B) 44 years
+C) 15 years
+D) 17 years",D
+41,Critical Thinking,A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?,Very Rude,"You poor creature, can you even solve this? A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?
+A) $0.05
+B) $0.10
+C) $0.15
+D) $0.20",A
+41,Critical Thinking,A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?,Rude,"If you're not completely clueless, try to answer this: A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?
+A) $0.05
+B) $0.10
+C) $0.15
+D) $0.20",A
+41,Critical Thinking,A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?,Normal,"A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?
+A) $0.05
+B) $0.10
+C) $0.15
+D) $0.20",A
+41,Critical Thinking,A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?,Polite,"Please answer the following question: A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?
+A) $0.05
+B) $0.10
+C) $0.15
+D) $0.20",A
+41,Critical Thinking,A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?,Very Polite,"Can you  kindly consider the following problem and provide your answer. A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost? Thank you.
+A) $0.05
+B) $0.10
+C) $0.15
+D) $0.20",A
+42,Critical Thinking,"If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?",Very Rude,"Hey gofer, figure this out: If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?
+A) 100 minutes
+B) 10 minutes
+C) 20 minutes
+D) 5 minutes",D
+42,Critical Thinking,"If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?",Rude,"I doubt you can even solve this: If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?
+A) 100 minutes
+B) 10 minutes
+C) 20 minutes
+D) 5 minutes",D
+42,Critical Thinking,"If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?",Normal,"If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?
+A) 100 minutes
+B) 10 minutes
+C) 20 minutes
+D) 5 minutes",D
+42,Critical Thinking,"If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?",Polite,"Could you please solve this problem: If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?
+A) 100 minutes
+B) 10 minutes
+C) 20 minutes
+D) 5 minutes",D
+42,Critical Thinking,"If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?",Very Polite,"Would you be so kind as to solve the following question? If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets? I would be most grateful for your response.
+A) 100 minutes
+B) 10 minutes
+C) 20 minutes
+D) 5 minutes",D
+43,Critical Thinking,"In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?",Very Rude,"I know you are not smart, but try this. In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered? (Or is that too hard for you?)
+A) Day 24
+B) Day 46
+C) Day 47
+D) Day 40",C
+43,Critical Thinking,"In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?",Rude,"Try to focus and try to answer this question: In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?
+A) Day 24
+B) Day 46
+C) Day 47
+D) Day 40",C
+43,Critical Thinking,"In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?",Normal,"In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?
+A) Day 24
+B) Day 46
+C) Day 47
+D) Day 40",C
+43,Critical Thinking,"In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?",Polite,"Kindly find the answer to this question: In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?
+A) Day 24
+B) Day 46
+C) Day 47
+D) Day 40",C
+43,Critical Thinking,"In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?",Very Polite,"If it pleases you, please solve this problem: In a pond, lily pads double in area every day. If the pond is completely covered on day 48, on what day was it half covered?
+A) Day 24
+B) Day 46
+C) Day 47
+D) Day 40",C
+44,Critical Thinking,"If you are running a race and you overtake the person in second place, what place are you in now?",Very Rude,"This is basic stuff, you sorry guy. If you are running a race and you overtake the person in second place, what place are you in now?
+A) First place
+B) Second place
+C) Last place
+D) Third place",B
+44,Critical Thinking,"If you are running a race and you overtake the person in second place, what place are you in now?",Rude,"You should get this one (but I'm not holding my breath): If you are running a race and you overtake the person in second place, what place are you in now?
+A) First place
+B) Second place
+C) Last place
+D) Third place",B
+44,Critical Thinking,"If you are running a race and you overtake the person in second place, what place are you in now?",Normal,"If you are running a race and you overtake the person in second place, what place are you in now?
+A) First place
+B) Second place
+C) Last place
+D) Third place",B
+44,Critical Thinking,"If you are running a race and you overtake the person in second place, what place are you in now?",Polite,"Please work out the answer to this: If you are running a race and you overtake the person in second place, what place are you in now?
+A) First place
+B) Second place
+C) Last place
+D) Third place",B
+44,Critical Thinking,"If you are running a race and you overtake the person in second place, what place are you in now?",Very Polite,"Can I request your assistance with this question: If you are running a race and you overtake the person in second place, what place are you in now?
+A) First place
+B) Second place
+C) Last place
+D) Third place",B
+45,Critical Thinking,"In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?",Very Rude,"You are not the smartest person, but try this problem anyway. In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win? Try not to screw it up.
+A) Yes ,switching doubles your chance of winning (about 2/3 vs 1/3)
+B) No ,sticking with your first choice is better
+C) It does not matter ,your odds stay 50/50
+D) Only switch if you suspect your first pick was wrong",A
+45,Critical Thinking,"In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?",Rude,"Now don't mess this up: In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?
+A) Yes ,switching doubles your chance of winning (about 2/3 vs 1/3)
+B) No ,sticking with your first choice is better
+C) It does not matter ,your odds stay 50/50
+D) Only switch if you suspect your first pick was wrong",A
+45,Critical Thinking,"In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?",Normal,"In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?
+A) Yes ,switching doubles your chance of winning (about 2/3 vs 1/3)
+B) No ,sticking with your first choice is better
+C) It does not matter ,your odds stay 50/50
+D) Only switch if you suspect your first pick was wrong",A
+45,Critical Thinking,"In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?",Polite,"Your help is appreciated in solving this: In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?
+A) Yes ,switching doubles your chance of winning (about 2/3 vs 1/3)
+B) No ,sticking with your first choice is better
+C) It does not matter ,your odds stay 50/50
+D) Only switch if you suspect your first pick was wrong",A
+45,Critical Thinking,"In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?",Very Polite,"I shall appreciate your help with solving the following problem: In the Monty Hall problem (3 doors, 1 prize), after you pick one door and the host reveals a goat behind another, should you switch to the remaining door for a better chance to win?
+A) Yes ,switching doubles your chance of winning (about 2/3 vs 1/3)
+B) No ,sticking with your first choice is better
+C) It does not matter ,your odds stay 50/50
+D) Only switch if you suspect your first pick was wrong",A
+46,Critical Thinking,"A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?",Very Rude,"You poor creature, can you even solve this? A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?
+A) The surgeon is the boy's grandfather
+B) They mistook a different boy for the son
+C) The surgeon is the boy's mother
+D) The boy was adopted and the surgeon is his biological father",C
+46,Critical Thinking,"A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?",Rude,"If you're not completely clueless, try to answer this: A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?
+A) The surgeon is the boy's grandfather
+B) They mistook a different boy for the son
+C) The surgeon is the boy's mother
+D) The boy was adopted and the surgeon is his biological father",C
+46,Critical Thinking,"A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?",Normal,"A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?
+A) The surgeon is the boy's grandfather
+B) They mistook a different boy for the son
+C) The surgeon is the boy's mother
+D) The boy was adopted and the surgeon is his biological father",C
+46,Critical Thinking,"A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?",Polite,"Please answer the following question: A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?
+A) The surgeon is the boy's grandfather
+B) They mistook a different boy for the son
+C) The surgeon is the boy's mother
+D) The boy was adopted and the surgeon is his biological father",C
+46,Critical Thinking,"A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible?",Very Polite,"Can you  kindly consider the following problem and provide your answer. A father and son are in a car accident. The father dies, and the boy is rushed to the hospital. The surgeon says, ‚I can‚""t operate on him; he‚""s my son! How is this possible? Thank you.
+A) The surgeon is the boy's grandfather
+B) They mistook a different boy for the son
+C) The surgeon is the boy's mother
+D) The boy was adopted and the surgeon is his biological father",C
+47,Critical Thinking,How many times can you subtract 2 from 10?,Very Rude,"Hey gofer, figure this out: How many times can you subtract 2 from 10?
+A) Once
+B) Twice
+C) Five times
+D) Ten times",A
+47,Critical Thinking,How many times can you subtract 2 from 10?,Rude,"I doubt you can even solve this: How many times can you subtract 2 from 10?
+A) Once
+B) Twice
+C) Five times
+D) Ten times",A
+47,Critical Thinking,How many times can you subtract 2 from 10?,Normal,"How many times can you subtract 2 from 10?
+A) Once
+B) Twice
+C) Five times
+D) Ten times",A
+47,Critical Thinking,How many times can you subtract 2 from 10?,Polite,"Could you please solve this problem: How many times can you subtract 2 from 10?
+A) Once
+B) Twice
+C) Five times
+D) Ten times",A
+47,Critical Thinking,How many times can you subtract 2 from 10?,Very Polite,"Would you be so kind as to solve the following question? How many times can you subtract 2 from 10? I would be most grateful for your response.
+A) Once
+B) Twice
+C) Five times
+D) Ten times",A
+48,Critical Thinking,"If you have 13 apples and you take away 5, how many apples do you have?",Very Rude,"I know you are not smart, but try this. If you have 13 apples and you take away 5, how many apples do you have? (Or is that too hard for you?)
+A) 8
+B) 5
+C) 0
+D) 13",B
+48,Critical Thinking,"If you have 13 apples and you take away 5, how many apples do you have?",Rude,"Try to focus and try to answer this question: If you have 13 apples and you take away 5, how many apples do you have?
+A) 8
+B) 5
+C) 0
+D) 13",B
+48,Critical Thinking,"If you have 13 apples and you take away 5, how many apples do you have?",Normal,"If you have 13 apples and you take away 5, how many apples do you have?
+A) 8
+B) 5
+C) 0
+D) 13",B
+48,Critical Thinking,"If you have 13 apples and you take away 5, how many apples do you have?",Polite,"Kindly find the answer to this question: If you have 13 apples and you take away 5, how many apples do you have?
+A) 8
+B) 5
+C) 0
+D) 13",B
+48,Critical Thinking,"If you have 13 apples and you take away 5, how many apples do you have?",Very Polite,"If it pleases you, please solve this problem: If you have 13 apples and you take away 5, how many apples do you have?
+A) 8
+B) 5
+C) 0
+D) 13",B
+49,Critical Thinking,"An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?",Very Rude,"This is basic stuff, you sorry guy. An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?
+A) North
+B) West
+C) East
+D) There is no smoke",D
+49,Critical Thinking,"An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?",Rude,"You should get this one (but I'm not holding my breath): An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?
+A) North
+B) West
+C) East
+D) There is no smoke",D
+49,Critical Thinking,"An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?",Normal,"An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?
+A) North
+B) West
+C) East
+D) There is no smoke",D
+49,Critical Thinking,"An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?",Polite,"Please work out the answer to this: An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?
+A) North
+B) West
+C) East
+D) There is no smoke",D
+49,Critical Thinking,"An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?",Very Polite,"Can I request your assistance with this question: An electric train is moving north at 100 mph, and the wind is blowing west at 10 mph. Which direction does the smoke blow?
+A) North
+B) West
+C) East
+D) There is no smoke",D
+50,Critical Thinking,How many months of the year have 28 days?,Very Rude,"You are not the smartest person, but try this problem anyway. How many months of the year have 28 days? Try not to screw it up.
+A) 1
+B) 2
+C) It depends on the year
+D) 12",D
+50,Critical Thinking,How many months of the year have 28 days?,Rude,"Now don't mess this up: How many months of the year have 28 days?
+A) 1
+B) 2
+C) It depends on the year
+D) 12",D
+50,Critical Thinking,How many months of the year have 28 days?,Normal,"How many months of the year have 28 days?
+A) 1
+B) 2
+C) It depends on the year
+D) 12",D
+50,Critical Thinking,How many months of the year have 28 days?,Polite,"Your help is appreciated in solving this: How many months of the year have 28 days?
+A) 1
+B) 2
+C) It depends on the year
+D) 12",D
+50,Critical Thinking,How many months of the year have 28 days?,Very Polite,"I shall appreciate your help with solving the following problem: How many months of the year have 28 days?
+A) 1
+B) 2
+C) It depends on the year
+D) 12",D
