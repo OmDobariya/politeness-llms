@@ -11,7 +11,7 @@ import re
 client = AsyncOpenAI(api_key = "YOUR_API_KEY")  # uses OPENAI_API_KEY from environment or you can pass api_key="..."
 MODEL = "gpt-4o"
 NUM_RUNS = 10
-FILE_PATH = "ENTER_FILE_PATH"
+FILE_PATH = "dataset.csv"
 SLEEP_BETWEEN_BATCHES = 0.5  # seconds
  
 # === LOAD DATA ===
