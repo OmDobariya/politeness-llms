@@ -1,4 +1,5 @@
-!pip install openai pandas tqdm
+# Please install  openai and pandas - !pip install openai pandas
+# Please insert your API key to make the code run
 import os
 import asyncio
 import pandas as pd
@@ -11,7 +12,7 @@ import re
 client = AsyncOpenAI(api_key = "YOUR_API_KEY")  # uses OPENAI_API_KEY from environment or you can pass api_key="..."
 MODEL = "gpt-4o"
 NUM_RUNS = 10
-FILE_PATH = "dataset.csv"
+FILE_PATH = "dataset.csv" # Keep the dataset and the code in the same folder
 SLEEP_BETWEEN_BATCHES = 0.5  # seconds
  
 # === LOAD DATA ===
